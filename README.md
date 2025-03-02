@@ -9,39 +9,36 @@ Task Breakdown ( 15 tasks)
 Gantt Chart Screenshot
 Final Project Report
 Reflection & Learning Outcomes
-📊 Kanban & Roadmap Overview
-The **GitHub Project Board** is structured with the following workflow:
+Kanban & Roadmap Overview
+The "GitHub Project Board" is structured with the following workflow:
 
-| **Kanban Columns** | **Purpose** |
-|--------------------|------------|
-| 📝 **Backlog** | Tasks not started yet |
-| ✅ **Ready** | Tasks planned & ready to start |
-| 🚧 **In Progress** | Tasks currently being worked on |
-| 🔍 **Testing/Review** | Tasks undergoing validation |
-| 🏁 **Completed** | Finished tasks |
+Kanban Columns Purpose
 
-🔗 **Access the GitHub Project Board:**  
-[Insert Your GitHub Project URL Here]
+ Backlog | Tasks not started yet |
+ Ready | Tasks planned & ready to start |
+ In Progress | Tasks currently being worked on |
+ Testing/Review | Tasks undergoing validation |
+ Completed | Finished tasks |
 
 ---
 
-## 📝 Task Breakdown
-The project consists of **15+ key tasks**, categorized into different stages:
+ Task Breakdown
+The project consists of "15+ key tasks", categorized into different stages:
 
-### **📌 Planning & Setup**
-- ✅ Define Project Scope & Requirements
-- ✅ Gather Design Assets
-- ✅ Set Up Development Environment
+   Planning & Setup
+-  Define Project Scope & Requirements
+-  Gather Design Assets
+-  Set Up Development Environment
 
-### **💻 Development Phase**
-- ✅ Create Basic HTML Structure
-- ✅ Apply CSS Styling
-- ✅ Add JavaScript for Interactivity
+  Development Phase
+-  Create Basic HTML Structure
+-  Apply CSS Styling
+-  Add JavaScript for Interactivity
 
-### **🔍 Testing & Validation**
-- ✅ WCAG Accessibility Testing
-- ✅ HTML & CSS Validation
-- ✅ Cross-Browser Testing
+  Testing & Validation
+-  WCAG Accessibility Testing
+-  HTML & CSS Validation
+- Cross-Browser Testing
 
   Deployment & Submission**
 - Deploy Website to GitHub Pages
