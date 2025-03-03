@@ -1,6 +1,6 @@
- Project Methodology - Kanban & Gantt Chart:
- This project is my part of my "Project Methodology Course Assignment". 
- The goal is to create a structured project plan, using **GitHub Projects**, including a Kanban Board & Roadmap (Gantt Chart) to manage and track the development of a web project.
+Project Methodology - Kanban & Gantt Chart:
+This project is my part of my "Project Methodology Course Assignment". 
+The goal is to create a structured project plan, using **GitHub Projects**, including a Kanban Board & Roadmap (Gantt Chart) to manage and track the development of a web project.
 Repository content:
 This repository includes:
 GitHub Project Board Link ( https://github.com/users/Bjelland14/projects/3)
@@ -20,30 +20,30 @@ Kanban Columns Purpose
  Testing/Review | Tasks undergoing validation |
  Completed | Finished tasks |
 
----
+
 
  Task Breakdown
-The project consists of "15+ key tasks", categorized into different stages:
+ The project consists of "15+ key tasks", categorized into different stages:
 
    Planning & Setup
 -  Define Project Scope & Requirements
 -  Gather Design Assets
 -  Set Up Development Environment
 
-  Development Phase
+   Development Phase
 -  Create Basic HTML Structure
 -  Apply CSS Styling
 -  Add JavaScript for Interactivity
 
-  Testing & Validation
--  WCAG Accessibility Testing
--  HTML & CSS Validation
+   Testing & Validation
+- WCAG Accessibility Testing
+- HTML & CSS Validation
 - Cross-Browser Testing
 
-  Deployment & Submission**
+  Deployment & Submission
 - Deploy Website to GitHub Pages
--  Write Project Report
--  Submit Final Delivery
+- Write Project Report
+- Submit Final Delivery
 
 
 
