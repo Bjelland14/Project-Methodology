@@ -50,7 +50,7 @@ The project consists of "15+ key tasks", categorized into different stages:
  Gantt Chart Timeline
 Below is the roadmap view (Gantt Chart) for this project:  
 
-![Gantt Chart](Gantt_Chart.png)
+![https://github.com/users/Bjelland14/projects/3/views/4]
 
 
 
