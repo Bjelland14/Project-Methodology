@@ -72,9 +72,4 @@ Below is the roadmap view (Gantt Chart) for this project:
 
 
 
-   Final Submission Checklist
- - GitHub Project Board   
- - Kanban Board & Roadmap View Configured
- - 15+ Well-Defined Tasks with Start/End Dates  
- - Gantt Chart Screenshot Uploaded  
- - Final Project Report Submitted
+   
