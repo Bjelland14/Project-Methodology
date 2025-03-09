@@ -50,7 +50,7 @@ Kanban Columns Purpose
  Gantt Chart Timeline
 Below is the roadmap view (Gantt Chart) for this project:  
 
-![https://github.com/users/Bjelland14/projects/3/views/4]
+[https://github.com/users/Bjelland14/projects/3/views/4]
 
 
 
