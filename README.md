@@ -6,7 +6,7 @@ This repository includes:
 GitHub Project Board Link ( https://github.com/users/Bjelland14/projects/3)
 Kanban Board Overview
 Task Breakdown ( 15 tasks)
-Gantt Chart Screenshot
+Gantt Chart 
 Final Project Report
 Reflection & Learning Outcomes
 Kanban & Roadmap Overview
